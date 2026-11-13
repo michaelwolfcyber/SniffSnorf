@@ -54,8 +54,8 @@ FINDINGS
 ## Install
 
 ```bash
-git clone https://github.com/mikelobocyber/sniffsnorf
-cd sniffsnorf
+git clone https://github.com/michaelwolfcyber/SniffSnorf.git
+cd SniffSnorf
 cargo build --release
 ./target/release/sniffsnorf --help
 ```
